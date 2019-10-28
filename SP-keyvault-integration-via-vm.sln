@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SP-keyvault-integration-via-vm", "SP-keyvault-integration-via-vm\SP-keyvault-integration-via-vm.csproj", "{FBABD2FF-753E-4974-B315-A8E574A4EC55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBABD2FF-753E-4974-B315-A8E574A4EC55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBABD2FF-753E-4974-B315-A8E574A4EC55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBABD2FF-753E-4974-B315-A8E574A4EC55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBABD2FF-753E-4974-B315-A8E574A4EC55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC02BA7C-472B-4BB4-854E-45EF79CCA384}
+	EndGlobalSection
+EndGlobal

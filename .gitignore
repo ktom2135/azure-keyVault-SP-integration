@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SP-keyvault-integration-via-vm/v16
+/packages
+/SP-keyvault-integration-via-vm/.vs/SP-keyvault-integration-via-vm/v16
+/SP-keyvault-integration-via-vm/bin
+/SP-keyvault-integration-via-vm/obj/Debug
+/SP-keyvault-integration-via-vm/packages
+*.user
+/SP-keyvault-integration-via-vm/.vs/SP-keyvault-integration-via-vm/config
